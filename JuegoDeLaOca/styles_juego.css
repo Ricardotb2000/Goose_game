@@ -1,0 +1,29 @@
+#tablero {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px; 
+}
+
+.casilla {
+    width: 60px; 
+    height: 60px; 
+    background-color: #ffe4b5;
+    border: 2px solid #8b4513; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 16px;
+    position: relative; 
+}
+
+.ficha {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.dado {
+    margin-top: 20px;
+}
