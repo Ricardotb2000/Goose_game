@@ -12,5 +12,3 @@ function animateBackground() {
 }
 
 animateBackground(); // Inicia la animación al cargar la página
-
-//comentario
