@@ -1,5 +1,5 @@
 #Description
-The Game of the Goose is a classic board game that involves players racing to reach the finish line by rolling dice and navigating through various challenges. This PHP implementation brings the traditional game to the web, allowing players to enjoy it online.
+The Goose Game is a classic board game that involves players racing to reach the finish line by rolling dice and navigating through various challenges. This PHP implementation brings the traditional game to the web, allowing players to enjoy it online.
 
 Features
 Multiplayer Support: Play with friends or family in local.
